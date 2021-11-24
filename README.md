@@ -1,4 +1,4 @@
-# PyCharmJupterInstallGuide
+# PyCharm Jupter Install Guide
 Installation guide to run jupyter notebooks on PyCharm <br>
 this guide works on Windows, the descriptions for Linux should work, but without guarantee
 ## Ananconda
